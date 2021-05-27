@@ -1,0 +1,20 @@
+body {
+  background-image: url("CAR4.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+h1 {
+  border: 2px Solid black;
+  margin: auto;  
+  text-transform: uppercase;
+  padding: 20px;
+  text-align: center;
+}
+p{
+  font-family: "Lucida Console", "Courier New", monospace;
+  letter-spacing: 3px;
+  
+}
